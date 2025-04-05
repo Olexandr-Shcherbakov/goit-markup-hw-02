@@ -55,12 +55,12 @@ a{ text-decoration: none ;}
         background-color: #4d5ae5 ;
        
         }
-        .buttonorder-link:hover,
-        .buttonorder-link:focus{color: #404bbf;} 
+        .buttonorder:hover,
+        .buttonorder:focus {background-color:#404bbf ;} 
 
-    .sectionthree{background-color: #f4f4f9;}
+    .sectionthree{background-color: #f4f4fd;}
 
-    
+    .sectourteam{background-color: #FFFFFF;}
     
     .tithtwo{font-family: "Roboto", sans-serif ; 
         font-weight: 700;
