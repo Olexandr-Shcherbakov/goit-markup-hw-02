@@ -12,7 +12,7 @@ a{ text-decoration: none ;}
     color: #4D5AE5;
     }
 .header-logo .logo-part {color: #2E2F42;}
-.footer-logo .logo-part {color:#f4f4f9 ;}
+.footer-logo .logo-part {color:#f4f4fd ;}
 .nav-link{font-family: Roboto ,sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -42,8 +42,7 @@ a{ text-decoration: none ;}
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;}
-    .buttonorder-link:hover,
-    .buttonorder-link:focus{color: #404bbf;}    
+      
     .buttonorder{cursor: pointer;
         font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -54,14 +53,19 @@ a{ text-decoration: none ;}
         letter-spacing: 0.04em;
         color: #fff;
         background-color: #4d5ae5 ;
+       
         }
+        .buttonorder-link:hover,
+        .buttonorder-link:focus{color: #404bbf;} 
+
     .sectionthree{background-color: #f4f4f9;}
+
     .oursp{background-color: #FFFFFF;}   
-    
-    .tithtwo{font-family: "Roboto", sans-serif , capitalize; 
+    .ourli{background-color: #FFFFFF;}
+    .tithtwo{font-family: "Roboto", sans-serif ; 
         font-weight: 700;
         font-size: 36px;
-        
+        text-transform: capitalize;
         /* line-height: 40px; */ 
         line-height: 111%;
         letter-spacing: 0.02em;
