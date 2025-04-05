@@ -6,8 +6,8 @@ a{ text-decoration: none ;}
 .logo{font-family: Raleway,sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase ;
     color: #4D5AE5;
     }
@@ -42,7 +42,10 @@ a{ text-decoration: none ;}
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;}
-    .buttonorder{font-family: "Roboto", sans-serif;
+    .buttonorder-link:hover,
+    .buttonorder-link:focus{color: #404bbf;}    
+    .buttonorder{cursor: pointer;
+        font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         
@@ -52,8 +55,10 @@ a{ text-decoration: none ;}
         color: #fff;
         background-color: #4d5ae5 ;
         }
+    .sectionthree{background-color: #f4f4f9;}
+    .oursp{background-color: #FFFFFF;}   
     
-    .tithtwo{font-family: "Roboto", sans-serif;
+    .tithtwo{font-family: "Roboto", sans-serif , capitalize; 
         font-weight: 700;
         font-size: 36px;
         
